@@ -10,7 +10,10 @@
   
 - 😄 Pronouns: ... Mr/he/him
   
-- ⚡ Fun fact: ... I used to be a chocolate maker at Videri 
+- ⚡ Fun fact: ... I used to be a chocolate maker at Videri
+
+
+## Welcome to cs!
 
 <!---
 mrVdZ/mrVdZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
